@@ -42,10 +42,10 @@
     "chart.js": "^4.5.0",
     "fuse.js": "^7.1.0",
     "jquery": "^3.7.1",
-    "katex": "^0.16.22",
+    "katex": "^0.19.0",
     "lite-youtube-embed": "^0.3.3",
     "medium-zoom": "^1.1.0",
-    "mermaid": "^11.9.0",
+    "mermaid": "^12.2.0",
     "packery": "^3.0.0",
     "prettier": "^3.6.2",
     "prettier-plugin-go-template": "^0.0.15",
@@ -123,7 +123,7 @@
   "dependencies": {
     "@headlessui/react": "^2.2.6",
     "@heroicons/react": "^2.2.0",
-    "@iamtraction/google-translate": "^2.0.1",
+    "@iamtraction/google-translate": "^3.0.0",
     "@tailwindcss/forms": "^0.5.10",
     "commander": "^14.0.0"
   }
